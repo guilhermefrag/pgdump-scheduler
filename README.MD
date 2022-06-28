@@ -1,5 +1,5 @@
 
-**Use this inside a django project**
+**Use this code inside a django project**
 
 1 - To run the scheduler dump:
 
